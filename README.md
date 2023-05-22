@@ -17,6 +17,7 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
   <summary>Mny Github Statistics ⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=RowanTheDev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <br>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RowanTheDev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
