@@ -1,5 +1,5 @@
-<p align="center">![Rowan](https://i.imgur.com/q54JBnn.png) 
-<p align="center">**Hello, I'm Rowan! Adiscord bot developer and an aspiring cyber security engineer. I love creating and coding discord bots as well as other projects.** 
+<p align="center">![Rowan](https://i.imgur.com/q54JBnn.png)</p>
+<h3 align="center">**Hello, I'm Rowan! Adiscord bot developer and an aspiring cyber security engineer. I love creating and coding discord bots as well as other projects.**</h3>
 <hr>
 
 ### A Little Bit About Me
