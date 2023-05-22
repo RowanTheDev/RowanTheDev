@@ -14,7 +14,7 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
 <hr>
 
 <details>
-  <summary>My Statistics ⚡</summary>
+  <summary><h3>My Statistics ⚡</h3></summary>
   
   <a href="#">![Github Statistics](https://github-readme-stats.vercel.app/api?username=RowanTheDev&theme=blueberry&count_private=true&hide_border=true&line_height=20&show_icons=true)</a>
   <br>
