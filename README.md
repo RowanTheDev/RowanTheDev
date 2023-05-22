@@ -1,7 +1,6 @@
 ![Rowan](https://i.imgur.com/q54JBnn.png)
 
-**Hello, I'm Rowan! Adiscord bot developer and an aspiring cyber security engineer. I love 
-creating and coding discord bots as well as other projects.**
+**Hello, I'm Rowan! Adiscord bot developer and an aspiring cyber security engineer. I love\ncreating and coding discord bots as well as other projects.**
 
 <!--
 **RowanTheDev/RowanTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
