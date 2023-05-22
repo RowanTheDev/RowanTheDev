@@ -18,7 +18,7 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
   
   <a href="#">![Github Statistics](https://github-readme-stats.vercel.app/api?username=RowanTheDev&theme=blueberry&count_private=true&hide_border=true&line_height=20&show_icons=true)</a>
   <br>
-  <a href="#">![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=RowanTheDev&theme=blueberry)</a>
+  <a href="#">![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=RowanTheDev&theme=blueberry&hide_border=true&line_height=20)</a>
 </details>
 
 Discord Status Badge Here<br>
