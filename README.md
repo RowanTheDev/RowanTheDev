@@ -1,5 +1,5 @@
 ![Rowan](https://i.imgur.com/q54JBnn.png)
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hello%2C+I'm+Rowan;A+discord+bot+developer+and+aspiring+cyber+security+engineer;I+love+creating+%2C+coding+discord+bots+and+other+projects!" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=3000&height=40&lines=Hello%2C+I'm+Rowan;A+discord+bot+developer+and+aspiring+cyber+security+engineer;I+love+creating+%2C+coding+discord+bots+and+other+projects!" alt="Typing SVG" /></h1>
 
 <!--
 **RowanTheDev/RowanTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
