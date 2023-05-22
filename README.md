@@ -14,10 +14,11 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
 <hr>
 
 <details>
-  <summary>My Github Statistics ⚡</summary>
-  <a href="#">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RowanTheDev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![GitHub Streak](https://streak-stats.demolab.com/?   user=RowanTheDev&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)</a>
- </details>
+  <summary>Mny Github Statistics ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 Discord Status Badge Here<br>
 Game Activity Status Badge Here<br>
