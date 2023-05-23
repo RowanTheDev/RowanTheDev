@@ -10,7 +10,7 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
 - Fuzion (Explanation)
 
 ### My Skills
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,py,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,express,nodejs,py,nginx,mysql,mongodb" />
 <hr>
 <details>
   <summary><h3>My Statistics ⚡</h3></summary>
