@@ -16,11 +16,11 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
 
 <h1>My Past Projects</h1>
 <details>
-  <summary><h3 style="margin: 0;">Zio</h3></summary>
+  <summary>Zio</summary>
   Hi  
 </details>
 <details>
-  <summary><h3 style="margin: 0;">Fuzion</h3></summary>
+  <summary>Fuzion</summary>
   Hi
 </details>
 
