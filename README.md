@@ -1,5 +1,6 @@
 <p align="center"><img align="center" src="https://i.imgur.com/q54JBnn.png"/></p>
 <h3 align="center">Hello, I'm Rowan! A discord bot developer and an aspiring cyber security engineer. I love creating and coding discord bots as well as other projects.</h3>
+[![Website](https://img.shields.io/website?label=rowanmc.co.uk&style=for-the-badge&url=https://rowanmc.co.uk/)](https://rowamc.co.uk/)
 <hr>
 
 ### A Little Bit About Me
@@ -21,6 +22,3 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
 </details>
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=527953295407317014)
-Game Activity Status Badge Here<br>
-VSCode Activity Status Badge Here<br>
-Spotify Activity Status Badge Here<br>
