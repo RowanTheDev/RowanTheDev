@@ -1,10 +1,16 @@
 <p align="center"><img align="center" src="https://i.imgur.com/q54JBnn.png"/></p>
-<h3 align="center">Hello, I'm Rowan! A discord bot developer and an aspiring cyber security engineer. I love creating and coding discord bots as well as other projects.</h3>
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+<h1>Hi there, I'm <a href="https://discord.com/users/527953295407317014">Rowan</a></h1>
+<a href="https://rowanmc.co.uk/">
+    <img src="https://img.shields.io/website?label=rowanmc.co.uk&style=for-the-badge&url=https://rowanmc.co.uk/" alt="Website badge">
+</a>
 <hr>
 
 ### A Little Bit About Me
 I am a 14 year old developer, from the United Kingdom. I learnt to code around 2 and a half years ago and coding discord bots helped me with wanting to advanced my knowledge more, I was interested in bot developing, websites and then later on found an interest in the cyber security field. So far I have created many projects on discord, I currently run a development studio called Blue Cloud Studios:<br>[![Blue Cloud Studios](https://badgen.net/discord/members/D26HJCmvsV)](https://discord.gg/D26HJCmvsV)
+
+<a href="https://discord.com/users/527953295407317014">
+    <img src="https://discord-readme-badge.vercel.app/api?id=527953295407317014" alt="Discord badge">
+</a>
 
 ### My Past Projects
 - Zio (Explanation)
@@ -20,5 +26,3 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
   <br>
   <a href="#">![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=RowanTheDev&theme=blueberry&hide_border=true)</a>
 </details>
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=527953295407317014)
