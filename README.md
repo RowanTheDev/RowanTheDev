@@ -25,7 +25,9 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
 </details>
 
 <h1>My Skills</h1>
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,express,nodejs,py,nginx,mysql,mongodb" />
+<a href="https://discord.gg/D26HJCmvsV">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,express,nodejs,py,nginx,mysql,mongodb" />
+</a>
 
 <details>
   <summary><h1>My Statistics ⚡</h1></summary>
