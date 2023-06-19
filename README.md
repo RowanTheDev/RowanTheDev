@@ -17,11 +17,11 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
 <h1>My Past Projects</h1>
 <details>
   <summary>Zio</summary>
-  Hi  
+  Soon...
 </details>
 <details>
   <summary>Fuzion</summary>
-  Hi
+  Soon...
 </details>
 
 <h1>My Skills</h1>
