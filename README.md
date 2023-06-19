@@ -20,7 +20,7 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
   <a href="#">![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=RowanTheDev&theme=blueberry&hide_border=true)</a>
 </details>
 
-Discord Status Badge Here<br>
+![My Discord](https://discord-readme-badge.vercel.app/api?id=527953295407317014)
 Game Activity Status Badge Here<br>
 VSCode Activity Status Badge Here<br>
 Spotify Activity Status Badge Here<br>
