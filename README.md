@@ -14,13 +14,13 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
     <img src="https://discord-readme-badge.vercel.app/api?id=527953295407317014" alt="Discord badge">
 </a>
 
-<h1>My Past Projects</h1>
+<h1>My Current/Past Projects</h1>
 <details>
-  <summary>Zio</summary>
+  <summary>Zio (Past)</summary>
   Soon...
 </details>
 <details>
-  <summary>Fuzion</summary>
+  <summary>Fuzion (Past)</summary>
   Soon...
 </details>
 
