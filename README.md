@@ -35,6 +35,7 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
 
 <details>
   <summary><h1>My Statistics ⚡</h1></summary>
+  Note: These statistics are from when Wakatime was setup, not my all time statistics.
   
   <a href="#">![Github Statistics](https://github-readme-stats.vercel.app/api?username=RowanTheDev&theme=blueberry&count_private=true&hide_border=true&line_height=20&show_icons=true)</a>
   <br>
