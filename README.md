@@ -18,6 +18,7 @@ I am a 14 year old developer, from the United Kingdom. I learnt to code around 2
 <details>
   <summary>Clash Commander (Current)</summary>
   An open source Discord Bot for Clash Of Clans.
+</details>
 <details>
   <summary>Zio (Past)</summary>
   Soon...
