@@ -4,7 +4,7 @@
 </a>
 
 <h1>A Little Bit About Me</h1>
-I am a 15 year old developer, from the United Kingdom. I learnt to code around 2 and a half years ago and coding discord bots helped me with wanting to advanced my knowledge more, I was interested in bot developing, websites and then later on found an interest in the cyber security field. So far I have created many projects on discord, I currently run a development studio called Blue Cloud Studios:
+I am a 15 year old developer, from the United Kingdom. I learnt to code around 2 and a half years ago and coding discord bots helped me with wanting to advanced my knowledge more, I was interested in bot developing, websites and then later on found an interest in the cyber security field. So far I have created many projects on discord, I used to run a development studio called Zentrix Development but have since shut down:
 <a href="https://discord.gg/D26HJCmvsV">
     <img src="https://badgen.net/discord/members/mEruFVMkN8" alt="Discord badge">
 </a>
